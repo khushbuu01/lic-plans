@@ -1,4 +1,4 @@
-const api_url = "http://lic-db.herokuapp.com/customers"
+const api_url = "https://lic-db.herokuapp.com/customers"
 //const api_url = "http://localhost:8088/customers"
 // const api_url = "http://localhost:8080/customers"
 
